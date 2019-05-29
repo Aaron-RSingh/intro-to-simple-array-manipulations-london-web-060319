@@ -3,4 +3,5 @@ def using_push(countries_in_western_africa, next_country)
 end
 
 def using_unshift(array, string)
-  
+  array.unshift(string)
+end
